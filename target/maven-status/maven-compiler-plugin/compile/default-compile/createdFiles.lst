@@ -1,0 +1,7 @@
+cl/control/controldestockproductos/ConexionBD.class
+cl/control/controldestockproductos/Controldestockproductos.class
+cl/control/controldestockproductos/Producto.class
+cl/control/controldestockproductos/UIproductos.class
+cl/control/controldestockproductos/ProductoDao.class
+cl/control/controldestockproductos/Categoria.class
+cl/control/controldestockproductos/CategoriaDAO.class
